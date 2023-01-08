@@ -1,0 +1,15 @@
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\bin\Debug\21300031063-Ahmet Utan.exe.config
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\bin\Debug\21300031063-Ahmet Utan.exe
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\bin\Debug\21300031063-Ahmet Utan.pdb
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\21300031063-Ahmet Utan.csproj.AssemblyReference.cache
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\21300031063-Ahmet Utan.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\_21300031063_Ahmet_Utan.Form1.resources
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\_21300031063_Ahmet_Utan.Properties.Resources.resources
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\21300031063-Ahmet Utan.csproj.GenerateResource.cache
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\21300031063-Ahmet Utan.csproj.CoreCompileInputs.cache
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\21300031063-Ahmet Utan.exe
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\21300031063-Ahmet Utan.pdb
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\_21300031063_Ahmet_Utan.Form2.resources
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\_21300031063_Ahmet_Utan.Form3.resources
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\_21300031063_Ahmet_Utan.Form4.resources
+C:\Users\ahisu\Desktop\c#\21300031063-Ahmet Utan\21300031063-Ahmet Utan\obj\Debug\_21300031063_Ahmet_Utan.Form5.resources
